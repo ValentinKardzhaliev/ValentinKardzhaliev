@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Valentin Kardzhaliev</h1>
 <h3 align="center">Full-stack Web Developer</h3>
 
-- 🔭 I’m currently working on - <b>Projects</b>
+- 🔭 I’m currently working on - <b>ByteBazaar - Tech shop website</b>
 
 - 🌱 I’m currently learning - <b>Django, React.js, MongoDB, PostgreSQL</b>
 
