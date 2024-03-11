@@ -15,29 +15,6 @@
 <p align="left">
  <a href="https://www.linkedin.com/in/valentin-kardzhaliev-770996257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentin kardzhaliev" height="30" width="40" /></a>
 
-<h3 align="left">Education:</h3>
-<p align="left">
-  <b>Python Web Developer & JS Front-end</b><br>
-  Software University<br>
-  06/2022 - 11/2023<br>
-  https://softuni.bg/
-</p>
-
-<h3 align="left">Work Experience:</h3>
-<p align="left">
-  <b>Full-Stack Developer</b><br>
-  Small local team, Bulgaria<br>
-  11/2023 - Present<br>
-  A team made up of 3 people, with 2 Web developers and one UI/UX designer.<br>
-  - Architected a Microservices Architecture for the project, improving scalability and maintainability.<br>
-  - Implemented dynamic web features and functionality using Django for the backend and React.js for the frontend.<br>
-  - Developed a robust e-commerce platform, ensuring a seamless user interface with React.js.<br>
-  - Designed and executed server-side integration.<br>
-  - Applied agile methodologies for efficient development processes within the project.
-</p>
-
-<h3 align="left">Skills:</h3>
-<p align="left">
 <h3 align="left">Skills:</h3>
 <p align="left">
   <img src="https://simpleicons.org/icons/django.svg" alt="Django" width="40" height="40"/>
