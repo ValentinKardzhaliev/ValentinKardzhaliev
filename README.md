@@ -13,16 +13,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/valentin-kardzhaliev-770996257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin-alt.svg" alt="valentin-kardzhaliev" height="30" width="40" /></a>
-  <a href="https://github.com/ValentinKardzhaliev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ValentinKardzhaliev" height="30" width="40" /></a>
-</p>
+ <a href="https://www.linkedin.com/in/valentin-kardzhaliev-770996257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentin kardzhaliev" height="30" width="40" /></a>
 
 <h3 align="left">Education:</h3>
 <p align="left">
   <b>Python Web Developer & JS Front-end</b><br>
   Software University<br>
   06/2022 - 11/2023<br>
-  [Link to Software University]
+  https://softuni.bg/
 </p>
 
 <h3 align="left">Work Experience:</h3>
@@ -46,13 +44,11 @@
 
 <h3 align="left">Personal Projects:</h3>
 <p align="left">
-  <b>PC Shop Website</b> | Small local development team (11/2023 - Present)<br>
+  <b>Tech Shop Website</b> | Small local development team (11/2023 - Present)<br>
   Developing a feature-rich e-commerce platform for the website. Collaborating with team members on designing and implementing various functionalities.<br>
-  [PC Shop Website Repository]
 
   <b>Event Ticketing Website</b> | Personal Project (11/2023 - Present)<br>
   Independently designing and implementing an event ticketing website. Incorporating secure payment gateways and optimizing for mobile responsiveness.<br>
-  [Event Ticketing Website Repository]
 </p>
 
 <h3 align="left">Languages:</h3>
