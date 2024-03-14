@@ -38,6 +38,6 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left">
-  English - Native or Bilingual Proficiency<br>
-  Bulgarian - Native or Bilingual Proficiency
+  English - Native/Bilingual Proficiency<br>
+  Bulgarian - Native/Bilingual Proficiency
 </p>
