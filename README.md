@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning - <b>Node.js</b>
 
-- 📫 How to reach me - <b>valentinkardzhaliev@gmail.com | 0895338047</b>
+- 📫 How to reach me - <b>valentinkardzhaliev@gmail.com | +359895338047</b>
 
 - ⚡ About me - **Fascinated with programming since I first learned what it was, I am a passionate and detail-oriented individual with a strong problem-solving mindset. Seeking a challenging position to contribute to the development of innovative web solutions.**
 
