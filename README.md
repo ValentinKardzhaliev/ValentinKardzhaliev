@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on - <b>ByteBazaar - Tech shop website</b>
 
-- 🌱 I’m currently learning - <b>Node.js</b>
+- 🌱 I’m currently learning - <b>Next.js</b>
 
 - 📫 How to reach me - <b>valentinkardzhaliev@gmail.com | +359895338047</b>
 
