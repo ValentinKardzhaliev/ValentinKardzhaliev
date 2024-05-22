@@ -7,7 +7,7 @@
 
 - 📫 How to reach me - <b>valentinkardzhaliev@gmail.com | +359895338047</b>
 
-- ⚡ About me - *Ever since I discovered the world of programming, I've been captivated by its possibilities. As a passionate and meticulous individual with a keen problem-solving mindset, I am eager to contribute to the development of innovative web solutions in a challenging role.**
+- ⚡ About me - *Ever since I discovered the world of programming, I've been captivated by its possibilities. As a passionate and meticulous individual with a keen problem-solving mindset, I am eager to contribute to the development of innovative web solutions in a challenging role.*
 
 <hr/>
 
